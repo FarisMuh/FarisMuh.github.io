@@ -1,0 +1,27 @@
+body {
+	background-color: black
+}
+
+
+h1 {font-family: arial;
+	color : black;
+	text-shadow: 0px 0px 10px red;
+	font-size: 45px;
+	border-top:5px solid maroon;
+	border-bottom: 5px solid maroon;
+	background-color: black;
+	width: 12.4%;
+	
+
+}
+img {border-radius: 30px}
+p { 
+	color: white;
+	outline-color: : white
+	;background-color:maroon;
+	width: 80%;
+	font-family: arial;
+}
+h3 {color:white;font-family: arial
+}
+li {color: white;font-family: arial}
